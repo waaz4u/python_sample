@@ -7,7 +7,7 @@ import unittest
 
 class mytests(unittest.TestCase):
     """
-    Write a program, preferably in Python, that given a text-file,
+    A Program, that given a text-file,
     counts the number of words and reports the top N words ordered by the number of times they appear in the file.
     Also consider that this code could be used by a suite of tests, not just usable as a standalone program.
     """
