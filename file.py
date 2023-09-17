@@ -99,12 +99,14 @@ class mytests(unittest.TestCase):
     Also consider that this code could be used by a suite of tests, not just usable as a standalone program.
     """
 
-    if len(sys.argv) < 3:
+    if sys.argv[1] == '-h':
+        pass
+    elif len(sys.argv) < 3:
         print_line()
         raise Exception(''
                         '\n*** Invalid arguments provided ***'
                         '\nTest File Usage: ./mytest.py file_name Top_N_words'
-                        '\n\n Eg: ./mytests.py sample.txt 10\n\n')
+                        '\n\n Eg: ./file.py somedata.txt 10\n\n')
     else:
         file_name = sys.argv[1]
         elements = sys.argv[2]

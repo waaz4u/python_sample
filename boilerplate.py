@@ -1,11 +1,8 @@
 #!/usr/bin/python3
 import unittest
 
-def sample_function(sample_param):
-    if isinstance(sample_param, int):
-        return sample_param
-    else:
-        TypeError("Not an integer")
+def sample_function():
+    pass
 
 class mytests(unittest.TestCase):
     # def setUpClass(cls) -> None:
@@ -15,7 +12,8 @@ class mytests(unittest.TestCase):
     # def tearDown(self) -> None:
     # def tearDownClass(cls) -> None:
 
-    def test_01(self):
+    @staticmethod
+    def test_01():
         """
             Sample Test
             Args:
@@ -25,9 +23,6 @@ class mytests(unittest.TestCase):
                 Raises:
                     TypeError: If input is not an int
             """
-        return sample_function(1)
-
-    def test_02(self):
         pass
 
 
