@@ -1,0 +1,109 @@
+
+ ['test_01_check_file_exists']
+
+--> Test to check if file exists and the type is a file
+--------------------------------------------------
+ ['test_02_check_empty_file']
+
+--> Test to check if file is not empty
+--------------------------------------------------
+ ['test_03_check_if_text_file']
+
+--> Test to verify it is a text file
+--------------------------------------------------
+ ['test_04_check_file_size']
+
+--> Test to number of words in a text file
+
+ Number of words in text file : 16
+--------------------------------------------------
+ ['test_05_check_word_repetition']
+
+--> Check how many words are repeated and report number of times
+
+ unordered dict with count -- >  {'hello': 6, 'wor': 1, 'world': 5, 'For': 1, 'wordly': 1, 'hellp': 1, 'test': 1}
+--------------------------------------------------
+ ['test_06_arrange_words']
+
+--> Takes input as dictionary and sequence the keys as per their values
+
+ ordered dict with count -- >  {'hello': 6, 'world': 5, 'wor': 1, 'For': 1, 'wordly': 1, 'hellp': 1, 'test': 1}
+--------------------------------------------------
+ ['test_07_top_three_elements']
+
+--> Returns top N Words
+
+Top 2 words ordered by the number of times they appear in the file: ['hello', 'world']
+--------------------------------------------------
+ ['test_01_check_file_exists']
+
+--> Test to check if file exists and the type is a file
+--------------------------------------------------
+ ['test_02_check_empty_file']
+
+--> Test to check if file is not empty
+--------------------------------------------------
+ ['test_03_check_if_text_file']
+
+--> Test to verify it is a text file
+--------------------------------------------------
+ ['test_04_check_file_size']
+
+--> Test to number of words in a text file
+
+ Number of words in text file : 16
+--------------------------------------------------
+ ['test_05_check_word_repetition']
+
+--> Check how many words are repeated and report number of times
+
+ unordered dict with count -- >  {'hello': 6, 'wor': 1, 'world': 5, 'For': 1, 'wordly': 1, 'hellp': 1, 'test': 1}
+--------------------------------------------------
+ ['test_06_arrange_words']
+
+--> Takes input as dictionary and sequence the keys as per their values
+
+ ordered dict with count -- >  {'hello': 6, 'world': 5, 'wor': 1, 'For': 1, 'wordly': 1, 'hellp': 1, 'test': 1}
+--------------------------------------------------
+ ['test_07_top_three_elements']
+
+--> Returns top N Words
+
+Top 2 words ordered by the number of times they appear in the file: ['hello', 'world']
+--------------------------------------------------
+ ['test_01_check_file_exists']
+
+--> Test to check if file exists and the type is a file
+--------------------------------------------------
+ ['test_02_check_empty_file']
+
+--> Test to check if file is not empty
+--------------------------------------------------
+ ['test_03_check_if_text_file']
+
+--> Test to verify it is a text file
+--------------------------------------------------
+ ['test_04_check_file_size']
+
+--> Test to number of words in a text file
+
+ Number of words in text file : 16
+--------------------------------------------------
+ ['test_05_check_word_repetition']
+
+--> Check how many words are repeated and report number of times
+
+ unordered dict with count -- >  {'hello': 6, 'wor': 1, 'world': 5, 'For': 1, 'wordly': 1, 'hellp': 1, 'test': 1}
+--------------------------------------------------
+ ['test_06_arrange_words']
+
+--> Takes input as dictionary and sequence the keys as per their values
+
+ ordered dict with count -- >  {'hello': 6, 'world': 5, 'wor': 1, 'For': 1, 'wordly': 1, 'hellp': 1, 'test': 1}
+--------------------------------------------------
+ ['test_07_top_three_elements']
+
+--> Returns top N Words
+
+Top 2 words ordered by the number of times they appear in the file: ['hello', 'world']
+--------------------------------------------------
