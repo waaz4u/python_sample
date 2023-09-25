@@ -1,3 +1,4 @@
 # python_sample
 sample unittests
-To execute file.py ./file.py -h 
+
+To execute file.py './file.py -h' for help 
